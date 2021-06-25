@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index.js && npx prisma studio",
+    "start": "node src/index.js",
     "build" : "npm i",
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon src/index.js"
